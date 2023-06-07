@@ -8,7 +8,7 @@ Used different type of slicer like **Segment, Industry, Vertical, Account Name a
 I have also added the overall summary of the data to have an overall view.
 I have also created **Segment vise summary** and **Product category vise summary**.
 
-## Car Price Analysis
+## Car Prediction Data Analysis
 This is the overall Car price analysis using **Power BI** and **Excel CSV** file.
 First the **Excel CSV** file has been ownloaded from the Git Hub and directly uploaded on the POWER BI.
 While analysisng the data on Power BI different slicer has been used to filter the data like **Engine Type**, **Cylinder Number**, **Fuel Type**, **Phases**.
